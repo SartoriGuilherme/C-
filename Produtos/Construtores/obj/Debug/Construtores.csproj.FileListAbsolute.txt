@@ -1,0 +1,7 @@
+C:\Users\aluno-cesul\source\repos\Construtores\Construtores\bin\Debug\Construtores.exe.config
+C:\Users\aluno-cesul\source\repos\Construtores\Construtores\bin\Debug\Construtores.exe
+C:\Users\aluno-cesul\source\repos\Construtores\Construtores\bin\Debug\Construtores.pdb
+C:\Users\aluno-cesul\source\repos\Construtores\Construtores\obj\Debug\Construtores.csproj.AssemblyReference.cache
+C:\Users\aluno-cesul\source\repos\Construtores\Construtores\obj\Debug\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\aluno-cesul\source\repos\Construtores\Construtores\obj\Debug\Construtores.exe
+C:\Users\aluno-cesul\source\repos\Construtores\Construtores\obj\Debug\Construtores.pdb

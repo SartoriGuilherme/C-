@@ -1,0 +1,7 @@
+C:\Users\aluno-cesul\source\repos\ModificadoresdeAcesso\ModificadoresdeAcesso\bin\Debug\ModificadoresdeAcesso.exe.config
+C:\Users\aluno-cesul\source\repos\ModificadoresdeAcesso\ModificadoresdeAcesso\bin\Debug\ModificadoresdeAcesso.exe
+C:\Users\aluno-cesul\source\repos\ModificadoresdeAcesso\ModificadoresdeAcesso\bin\Debug\ModificadoresdeAcesso.pdb
+C:\Users\aluno-cesul\source\repos\ModificadoresdeAcesso\ModificadoresdeAcesso\obj\Debug\ModificadoresdeAcesso.csproj.AssemblyReference.cache
+C:\Users\aluno-cesul\source\repos\ModificadoresdeAcesso\ModificadoresdeAcesso\obj\Debug\ModificadoresdeAcesso.csproj.CoreCompileInputs.cache
+C:\Users\aluno-cesul\source\repos\ModificadoresdeAcesso\ModificadoresdeAcesso\obj\Debug\ModificadoresdeAcesso.exe
+C:\Users\aluno-cesul\source\repos\ModificadoresdeAcesso\ModificadoresdeAcesso\obj\Debug\ModificadoresdeAcesso.pdb
