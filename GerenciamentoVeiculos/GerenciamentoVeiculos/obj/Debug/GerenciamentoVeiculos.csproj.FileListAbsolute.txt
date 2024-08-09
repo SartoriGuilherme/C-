@@ -1,0 +1,7 @@
+C:\Users\aluno-cesul\source\repos\GerenciamentoVeiculos\GerenciamentoVeiculos\bin\Debug\GerenciamentoVeiculos.exe.config
+C:\Users\aluno-cesul\source\repos\GerenciamentoVeiculos\GerenciamentoVeiculos\bin\Debug\GerenciamentoVeiculos.exe
+C:\Users\aluno-cesul\source\repos\GerenciamentoVeiculos\GerenciamentoVeiculos\bin\Debug\GerenciamentoVeiculos.pdb
+C:\Users\aluno-cesul\source\repos\GerenciamentoVeiculos\GerenciamentoVeiculos\obj\Debug\GerenciamentoVeiculos.csproj.AssemblyReference.cache
+C:\Users\aluno-cesul\source\repos\GerenciamentoVeiculos\GerenciamentoVeiculos\obj\Debug\GerenciamentoVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\aluno-cesul\source\repos\GerenciamentoVeiculos\GerenciamentoVeiculos\obj\Debug\GerenciamentoVeiculos.exe
+C:\Users\aluno-cesul\source\repos\GerenciamentoVeiculos\GerenciamentoVeiculos\obj\Debug\GerenciamentoVeiculos.pdb
