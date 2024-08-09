@@ -1,0 +1,7 @@
+C:\Users\aluno-cesul\source\repos\Zoologico\Zoologico\bin\Debug\Zoologico.exe.config
+C:\Users\aluno-cesul\source\repos\Zoologico\Zoologico\bin\Debug\Zoologico.exe
+C:\Users\aluno-cesul\source\repos\Zoologico\Zoologico\bin\Debug\Zoologico.pdb
+C:\Users\aluno-cesul\source\repos\Zoologico\Zoologico\obj\Debug\Zoologico.csproj.AssemblyReference.cache
+C:\Users\aluno-cesul\source\repos\Zoologico\Zoologico\obj\Debug\Zoologico.csproj.CoreCompileInputs.cache
+C:\Users\aluno-cesul\source\repos\Zoologico\Zoologico\obj\Debug\Zoologico.exe
+C:\Users\aluno-cesul\source\repos\Zoologico\Zoologico\obj\Debug\Zoologico.pdb
